@@ -51,6 +51,9 @@ int main() {
 
     s.peek();
 
+    s.push(40);
+    s.push(50);
+
     s.pop();
     s.peek();
 
